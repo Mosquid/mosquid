@@ -1,12 +1,10 @@
 # Welcome to github.com/mosquid
 
+My name is Dmitry Platonov and I do things with the Code. I create software for a living, prototype software for the sake of learning, and mentor for giving back.
+Currently, I'm a part of a founding team at [A.Team](https://a.team/). 
 
-_I didn’t know that but apparently when you create a GitHub repo with a name matching your handle and `README.md` file in the root, it turns into your GitHub profile page just like this one._
+You are welcome here and feel free to get in touch:
 
-My name is Dmitry Platonov and I am a software engineer (or rather a web developer) with a passion for technological detective challenges.
-
-I can be applicable in designing complex web applications, consulting on infrastructure, or building MVPs. If you are interested in any of these, do not hesitate to get in touch.
-
-dima.p@oqva.io  
+dima@a.team  
 https://t.me/mosquid
 
