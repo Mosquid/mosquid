@@ -6,5 +6,5 @@ Currently, a founding team member of [A.Team](https://a.team/).
 You're welcome here, and let's keep in touch:
 
 dima@a.team  
-https://t.me/mosquid
+https://t.me/fnbme
 
